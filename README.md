@@ -10,5 +10,7 @@ I tested this script in:
 
 1. Play full video.
 2. Copy Script in the folder where you want to file save. 
-3. Now run script in your terminal. ~$ ./saveFlash.sh
-
+3. Now run script in your terminal. 
+```
+~$ ./saveFlash.sh
+```
